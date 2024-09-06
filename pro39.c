@@ -1,4 +1,4 @@
-// eliagebal for vote
+// eligible for vote
 
 #include<stdio.h>
 int main()
